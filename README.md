@@ -1,4 +1,4 @@
-## CIRI-full
+## CIRI-vis
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/bioinfo-biols/CIRI-vis)
 ![GitHub All Releases](https://img.shields.io/github/downloads/bioinfo-biols/CIRI-vis/total)
