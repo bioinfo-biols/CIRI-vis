@@ -18,7 +18,7 @@ Maintainer: Yi Zheng
 
 ### Release Notes
 
-- Version 1.4
+- Version 1.4.1
 
 ### Citing CIRI-full
 
